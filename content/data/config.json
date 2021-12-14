@@ -93,15 +93,6 @@
         ],
         "socialLinks": [
             {
-                "label": "lorem-ipsum",
-                "altText": "lorem-ipsum",
-                "url": "#",
-                "showIcon": false,
-                "icon": "facebook",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
                 "type": "Social",
                 "altText": "Twitter",
                 "url": "/",
